@@ -19,24 +19,17 @@ Solving for straight up side:
 camera1 = 0
 camera2 = 2
 
-# PARAMETERS BELOW NEED TO BE SET BY YOU
-# field of view for left lens, in centimeters
-fieldOfView = 78
-
 # distance between lenses in centimeters
 distanceBetweenLenses = 6.25
 
 # the degree in which objects disappear from the right camera's field of vision, left side
-startDegree = 32.569
+# endDegree is auto calculated below
 startDegree = 45.4
 
 # resolution of camera
 width = 1280  # 720p
 height = 720  # 720p
 
-# CALCULATED FOR USE BELOW
-# we will not need to look past the middle of the right lens
-centerView = fieldOfView/2
 
 # same as center width.. for ease of reading
 halfWidth = int(width/2)
