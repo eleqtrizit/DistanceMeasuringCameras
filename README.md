@@ -13,4 +13,4 @@ This was tested as working with a Jetson Nano and PC versions of Ubuntu 18/19.  
 
 Config file: settings.py
 
-__You will need to know the field of view and the distance between the lenses.  __
+**You will need to know the field of view and the distance between the lenses.**
