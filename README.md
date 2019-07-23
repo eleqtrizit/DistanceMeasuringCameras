@@ -1,4 +1,4 @@
-# DistanceMeasuringCameras
+# Distance Measuring Cameras
 Measure the distance of objects using a stereoscopic camera.
 
 Using a stereoscopic camera purchased off Amazon (SVPRO 720p HD Webcam MJPEG &YUY2 Mini CMOS OV9712 USB Camera Module), I'm using simply trigonometry to measure the distance of an object.
